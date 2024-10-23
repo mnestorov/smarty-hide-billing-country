@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:  SM - Hide Billing Country for WooCommerce
- * Plugin URI:   https://github.com/smartystudio/smarty-hide-billing-country
+ * Plugin URI:   https://github.com/mnestorov/smarty-hide-billing-country
  * Description:  A plugin to manage the visibility of the billing country field on the checkout page for each site in a multisite environment, with an option in WooCommerce settings.
  * Version:      1.0.0
  * Author:       Smarty Studio | Martin Nestorov
- * Author URI:   https://smartystudio.net
+ * Author URI:   https://github.com/mnestorov
  * License:      GPL-2.0+
  * License URI:  http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:  smarty-hide-billing-country
